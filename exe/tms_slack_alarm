@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+
+require "tms_slack_alarm"
